@@ -6,3 +6,8 @@ h1{
 body{
     background-color:rgb(92, 78, 62) ;
 }
+img{
+    margin-right: 90px;
+    border: 23px yellowgreen solid;
+    width: 500px;
+}
